@@ -1,0 +1,48 @@
+- IAAS, PAAS, SAAS
+- Daily 15 to 20 mins, Shell scripting/Terraform
+- Networking
+	* IP Add
+	* vNet, NSG
+	* Hub & Spoke Architecute
+	* Gateways
+	* VPN & express
+	* Onprem- to - Azure Connectivity(Aws - to - Azure)
+
+- Terraform Basics
+
+- Load Balancers
+	* Types of LB L4 & L7
+	* Standard LB 
+	* Basic LB
+	* Application gateway
+	* Traffic Manager
+	* front door
+
+- Storage account
+- Backups and Monitoring
+- Alerts creation and Lognalytics work space
+- Azure Site Recovery( replication )
+- Automation account and Service Pricaple ( Powershell scirpts)
+	
+- Migration
+- policy and governance
+
+- Terraform : 10 Practicle LAB
+	- Terraform Basics
+	- Terraform Structure
+	- Terraform authentication
+	- Terraform execution policy
+	- Terraform basic script
+	- Terraform resource creation
+	- Terraform DataSource
+	- Terraform taint
+
+- Azure DevOps:
+	peipeline
+	ymal
+	Terraform
+	Azure Deployments
+
+
+	
+
